@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/withdrawal_amount_prompt_question4"
+        android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/editTextWithdrawalAmount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="@string/withdrawal_amount_hint_question4"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/buttonCalculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate_button_question4"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewNotesOf100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewNotesOf50"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewNotesOf10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewNotesOf1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewTotalNumberNotes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:onClick="openQuestion5"
+        android:layout_margin="30dp"
+        android:text="@string/go_to_next_question_question" />
+</LinearLayout>

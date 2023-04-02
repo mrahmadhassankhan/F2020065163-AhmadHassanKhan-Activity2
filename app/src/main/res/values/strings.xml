@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">F2020065163-AhmadHassanKhan-Activity2</string>
+    <string name="enter_decimal_number_question1">Please enter a decimal number.</string>
+    <string name="convert_button">Convert</string>
+    <string name="binary_representation_question1">Binary representation: %1$s</string>
+    <string name="go_to_next_question_question">Go to Next Question</string>
+
+    <string name="result_in_feet_question2">Result in Feet:</string>
+    <string name="length_in_centimeters_text_question2">Please enter a length in centimeters</string>
+    <string name="length_in_feet_question2">Feet representation: %.2f feet</string>
+
+
+    <string name="enter_temperature_in_celsius_question3">Enter temperature in Celsius:</string>
+    <string name="celsius_hint_question3">e.g. 25.5</string>
+    <string name="result_format_question3">%.1f °F</string>
+
+    <string name="withdrawal_amount_prompt_question4">Enter the amount to be withdrawn (in hundreds):</string>
+    <string name="withdrawal_amount_hint_question4">e.g. 35 for 3,500</string>
+    <string name="calculate_button_question4">Calculate</string>
+    <string name="notes_of_100_question4">Notes of 100: %1$d</string>
+    <string name="notes_of_50_question4">Notes of 50: %1$d</string>
+    <string name="notes_of_10_question4">Notes of 10: %1$d</string>
+    <string name="notes_of_1_question4">Notes of 1: %1$d</string>
+    <string name="total_number_notes_question4">Total number of notes: %1$d</string>
+
+    <string name="add_question5">Add</string>
+    <string name="multiply_question5">Multiply</string>
+    <string name="subtract_question5">Subtract</string>
+    <string name="divide_question5">Divide</string>
+    <string name="remainder_question5">Remainder</string>
+    <string name="result_prefix_question5">Result: </string>
+    <string name="enter_first_number_question5">Enter first number</string>
+    <string name="enter_second_number_question5">Enter second number</string>
+    <string name="result_will_appear_here_question5">Result will appear here</string>
+    <string name="sin_question5">Sin</string>
+    <string name="cos_question5">Cos</string>
+    <string name="tan_question5">Tan</string>
+    <string name="power_question5">Power</string>
+    <string name="log_question5">Log</string>
+    <string name="log10_question5">Log10</string>
+    <string name="ceiling_question5">Ceiling</string>
+    <string name="floor_question5">Floor</string>
+    <string name="sqrt">Sqrt</string>
+    <string name="round">Round</string>
+    <string name="exp_question5">Exp</string>
+    <string name="divide_by_zero_error_question5">Cannot divide by zero</string>
+    <string name ="clear_button">Clear</string>
+</resources>
